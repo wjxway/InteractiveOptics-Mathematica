@@ -6,7 +6,7 @@ This is a package used to Interactively draw illustrations of optical hardware a
 
 
 
-## Usage##
+## Usage
 
 1. Open ***BOTH*** `GUI.nb` and `light tracking.nb` in *Mathematica*.
 2. Evaluate all Initialization Cells in `light tracking.nb` by Clicking **Evaluation -> Evaluate Initialization Cells** in the menu bar.

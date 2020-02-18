@@ -18,7 +18,7 @@ This is a package used to Interactively draw illustrations of optical hardware a
 
 The window you should get should be like this:
 
-![demo](https://i.loli.net/2018/03/11/5aa49b50af2c6.png)
+![demo](https://raw.githubusercontent.com/wjxway/image-storage/master/interactiveopt1.png)
 
 
 
@@ -48,7 +48,7 @@ One can mainpulate the setup by mouse-click buttons(**Note that one can know wha
 
 After all things are done, press the **NUKE** button and get image with higher resolution and adjust the effect you want. A typical image could be like:
 
-![microscope](https://i.loli.net/2018/03/11/5aa49b4f3701b.jpg)
+![microscope](https://raw.githubusercontent.com/wjxway/image-storage/master/interactiveopt2.png)
 
 which illustrates the mechanism of microsope.
 

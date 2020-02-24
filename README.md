@@ -60,6 +60,6 @@ If I'm happy, I may create a small notebook which simplify the initialization pr
 
 
 
-##For Devs
+## For Devs
 
 I've written detailed explanation of the structure and code in both notebooks, those should be adequate if you want to further develope this program or make better quality images by yourself.
